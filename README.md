@@ -1,2 +1,2 @@
 # Hostel-management
-I created a Hostel management system using python(pandas) which has the detailed info of the persons.
+I created a Hostel management system using python(pandas). It has the detailed log entries of hosteling.
